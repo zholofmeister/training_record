@@ -1,0 +1,6 @@
+dp https://codeforces.com/contest/1389/problem/B (刷表法)
+dp https://codeforces.com/contest/1409/problem/F (刷表法）
+dp https://codeforces.com/contest/1433/problem/F (刷表法)
+dp https://codeforces.com/contest/1446/problem/B
+dp https://codeforces.com/contest/1096/problem/D
+dp https://atcoder.jp/contests/abc185/tasks/abc185_e
